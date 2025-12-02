@@ -1,14 +1,14 @@
 ### 🥇 TryHackMe Badges
-![Badge 1] (https://tryhackme.com/img/badges/wireshark.svg)
+![Wireshark] (https://tryhackme.com/img/badges/wireshark.svg) Competent with Wireshark & Packet Analysis
 
-![Badge 2] (https://tryhackme.com/img/badges/soc-sim-first-alert-closed.svg)
+![First Alert Closed] (https://tryhackme.com/img/badges/soc-sim-first-alert-closed.svg) Closing Your First Alert
 
-![Badge 3] (https://tryhackme.com/img/badges/networkfundamentals.svg)
+![Networking Nerd] (https://tryhackme.com/img/badges/networkfundamentals.svg) Completing the 'Network Fundamentals' module
 
-![Badge 4] (https://tryhackme.com/img/badges/howthewebworks.svg)
+![World Wide Web] (https://tryhackme.com/img/badges/howthewebworks.svg) Completing the 'How The Web Works' module
 
-![Badge 5] (https://tryhackme.com/img/badges/webbed.svg)
+![Webbed] (https://tryhackme.com/img/badges/webbed.svg) Understands how the world wide web works
 
-![Badge 6] (https://tryhackme.com/img/badges/linux.svg)
+![cat linux.txt] (https://tryhackme.com/img/badges/linux.svg) Being competent in Linux
 
-![Badge 7] (https://tryhackme.com/img/badges/streak90.svg)
+![90 Day Streak] (https://tryhackme.com/img/badges/streak90.svg) Hacking for 90 days in a row
